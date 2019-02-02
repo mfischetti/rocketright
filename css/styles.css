@@ -84,7 +84,7 @@ a:focus, a:hover {
 }
 
 .navbar-custom .navbar-toggle {
-    color: #2B2B2B;
+    color: #84daff;
     background-color: rgba(255, 255, 255, .2);
     font-size: 12px
 }
@@ -107,7 +107,7 @@ a:focus, a:hover {
 }
 
 .navbar-custom a {
-    color: #2B2B2B
+    color: #84daff;
 }
 
 .navbar-custom .nav li a {
@@ -129,7 +129,7 @@ a:focus, a:hover {
 }
 
 .navbar-custom .nav li.active a:hover {
-    color: #2B2B2B
+    color: #84daff
 }
 
 @media (min-width:768px) {
@@ -198,10 +198,10 @@ p1 {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #2B2B2B;
+    border: 2px solid #84daff;
     border-radius: 100% !important;
     font-size: 40px;
-    color: #2B2B2B;
+    color: #84daff;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -210,7 +210,7 @@ p1 {
 
 .btn-circle:focus, .btn-circle:hover {
     outline: 0;
-    color: #2B2B2B;
+    color: #84daff;
     background: rgba(255, 255, 255, .1)
 }
 
@@ -264,7 +264,7 @@ p1 {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #2B2B2B;
+    color: #84daff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
